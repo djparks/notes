@@ -58,3 +58,8 @@ Multirun - This plugin will help you to run multiple run configurations at once.
 Spotbugs
 [https://plugins.jetbrains.com/plugin/14014-spotbugs]
 
+Project Color
+[https://plugins.jetbrains.com/plugin/19463-project-color]
+
+Testspector
+[https://github.com/Hasatori/Testspector]
