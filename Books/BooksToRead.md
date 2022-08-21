@@ -1,0 +1,30 @@
+# Books to Read
+
+- [ ] Atomic Habits; James Clear
+- [ ] Peak; Anders Ericsson & Robert Pool
+- [ ] The Power of Habit; Charles Duhigg
+- [ ] Antifragile; Nasssim Taleb
+- [ ] Learning How to Learn; Oakley & Sejnowski
+- [ ] ** So Good They Can't Ignore You; Cal Newport
+- [ ] Smartcuts; Shane Snow
+- [ ] The Dip; Seth Godin
+- [ ] Mastery; Robert Greene
+- [X] The Obstacle is the Way; Ryan Holiday
+- [ ] Moonwalking with Einstein; Joshua Foer
+- [ ] The Art of Learning; Josh Waitzkin
+- [ ] Deep Work; Cal Newport
+- [ ] The 4-Hour Chef; Timothy Ferris
+- [ ] Emergency; Neil Strauss
+- [ ] Why We Sleep; Matthew Walker, PHD
+- [ ] Thinking Fast and Slow; Daniel Kahneman
+- [X] The 4-Hour Workweek; Timothy Ferriss
+- [ ] Eat That Frog: Brian Tracy
+- [ ] How the Mind Works; Steven Pinker
+- [ ] How to Fail at Almost Everything and Still Win Big; Scott Adams
+- [ ] Make It Stick; Bowen, McDaniel, Rod...
+- [ ] Unlimited Memory; Kevin Horsley
+- [ ] Drive; Daniel H. Pink
+- [ ] Ultralearning; Young
+- [ ] The First 20 Hours; Josh Kaufman
+- [ ] Mindset; Carol Dweck
+- [ ] One Small Step can Change Your Life, The Kaizen way; Robert Maurer
