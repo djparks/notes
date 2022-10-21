@@ -1,5 +1,13 @@
 # Kata URLs
 
+<http://blog.code-cop.org/2021/03/11-years-prime-factors-kata.html>
+
+<http://blog.code-cop.org/2021/04/my-code-katas.html>
+
+<http://blog.code-cop.org/p/my-code-katas.html>
+
+<https://github.com/emilybache>
+
 <https://github.com/garora/TDD-Katas>
 
 <https://github.com/garora/TDD-Katas-Java>

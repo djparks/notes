@@ -33,3 +33,21 @@ SOCRATES
 
 "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you."
 RALPH WALDO EMERSON
+
+"You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You must do the thing which you think you cannot do."
+ELEANOR ROOSEVELT
+
+“An investment in knowledge always pays the best interest.”
+BENJAMIN FRANKLIN
+
+"The winds and the waves are always on the side of the ablest navigators."
+EDWARD GIBBON
+
+“Learn from the mistakes of others. You can’t live long enough to make them all yourself.”
+ELEANOR ROOSEVELT
+
+"As I grow older, I pay less attention to what men say. I just watch what they do."
+ANDREW CARNEGIE
+
+"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."
+SOCRATES

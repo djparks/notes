@@ -1,7 +1,6 @@
 # Plugins for Jetbrains IDE
 
 CSV - Lightweight plugin for editing CSV/TSV/PSV files with a flexible Table Editor, syntax validation, structure highlighting, customizable coloring, new intentions and helpful inspections.
-
 [https://plugins.jetbrains.com/plugin/10037-csv]
 
 .env - .​env files support
@@ -63,3 +62,18 @@ Project Color
 
 Testspector
 [https://github.com/Hasatori/Testspector]
+
+Copilot
+[https://github.com/features/copilot]
+
+[Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
+
+[Pieces](https://plugins.jetbrains.com/plugin/17328-pieces)
+
+[Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+
+[GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
+
+[SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+
+[AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
