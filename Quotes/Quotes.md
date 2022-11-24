@@ -51,3 +51,9 @@ ANDREW CARNEGIE
 
 "Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."
 SOCRATES
+
+“What you get by achieving your goals is not as important as what you become by achieving your goals.”
+HENRY DAVID THOREAU
+
+“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.”
+SENECA

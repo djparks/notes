@@ -39,6 +39,12 @@ graphql
 rainbow-CSV
 [https://plugins.jetbrains.com/plugin/12896-rainbow-csv]
 
+CSV
+[https://plugins.jetbrains.com/plugin/10037-csv]
+
+.ignore
+[https://plugins.jetbrains.com/plugin/7495--ignore]
+
 statistic
 [https://plugins.jetbrains.com/plugin/4509-statistic]
 

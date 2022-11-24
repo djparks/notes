@@ -4,3 +4,5 @@ Codility's practice lessons, use this link to try out the problems in this cours
 Github link for all the code found in this course: <https://github.com/cutajarj/CodilityInJava>
 Me giving a talk in Lisbon on coding interviews: <https://www.youtube.com/watch?v=T_AyS70_eyI>
 My blog where I discuss other tech material: <http://www.cutajarjames.com>
+
+Spring Data JPA Interview Questions and Answers <https://www.jpa-buddy.com/blog/spring-data-jpa-interview-questions-and-answers/>

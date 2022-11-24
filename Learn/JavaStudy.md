@@ -34,7 +34,17 @@ trails from the [official Java tutorials](https://docs.oracle.com/javase/tutoria
 
 Four famous functional interfaces:
 
+```JAVA
 1. Supplier<T> =====> T get() ------> Factories in streams
 2. Predicate<T> =====> boolean test(T) ------> filters in streams
 3. Function<T, R> =====> R apply(T) -------> map in streams
 4. Consumer<T> ======> void accept(T) -------> forEach in streams
+```
+
+MORE INFO ON LOOM
+JEP Café - Virtual Threads:
+<https://www.youtube.com/watch?v=IKSSBvRDmTg>
+JEP Café - Launching 10 Million Concurrent Threads with Loom:
+<https://www.youtube.com/watch?v=UVoGE0GZZPI>
+JEP Café - Java Asynchronous Programming Full Tutorial with Loom and Structured Concurrency:
+<https://www.youtube.com/watch?v=2nOj8MKHvmw>

@@ -48,9 +48,8 @@ https://jjfumero.github.io/projects/
 https://bonn0062.github.io/anne_bonner/
 https://medium.com/better-programming/an-honest-guide-to-build-a-decent-and-powerful-developer-portfolio-2319f2cc2c19
 
-
 Reference:
-https://towardsdatascience.com/top-20-websites-for-coding-challenge-and-competition-in-2020-f667089a5b47
+<https://towardsdatascience.com/top-20-websites-for-coding-challenge-and-competition-in-2020-f667089a5b47>
 
 Spring Boot:
 https://springhow.com/tags/spring-boot/
