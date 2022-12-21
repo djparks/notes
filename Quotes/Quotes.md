@@ -57,3 +57,15 @@ HENRY DAVID THOREAU
 
 “It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.”
 SENECA
+
+"Truth will ultimately prevail where pains is taken to bring it to light." --
+George Washington
+
+"Surround yourself with people that push you to do and be better. No drama or negativity. Just higher goals and higher motivation. Good times and positive energy. No jealousy or hate. Simply bringing out the absolute best in each other"
+Warren Buffet
+
+“People who are unable to motivate themselves must be content with mediocrity no matter how impressive their other talents.”
+ANDREW CARNEGIE
+
+“You are what you do, not what you say you will do.”
+CARL JUNG

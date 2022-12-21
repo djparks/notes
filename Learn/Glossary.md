@@ -52,7 +52,9 @@ S
 SRP
 Single responsibility principle
 the notion that an object should have only a single responsibility.
-O
+
+## O
+
 OCP
 Open/closed principle
 the notion that “software entities … should be open for extension, but closed for modification”.
@@ -64,12 +66,25 @@ I
 ISP
 Interface segregation principle
 the notion that “many client specific interfaces are better than one general purpose interface.”[5]
-D
+
+## D
+
 DIP
 Dependency inversion principle
 the notion that one should “Depend upon Abstractions. Do not depend upon concretions.”[5]
 Dependency injection is one method of following this principle.
 Transitive Dependency: Looks up dependencies of dependencies
+
+### DevSecOps
+
+Static Application Security Testing (SAST) - known weaknesses and insecure coding practices
+Software Composition Analysis (SCA) - software components
+Dynamic Application Security Testing (DAST) - outside-in approach
+
+## S
+
+Shift Left: Bring testing and security measures into the code development
+processes early
 
 YAGNI: "You ain't gonna need it" or “You aren′t gonna need it”[1] (acronym: YAGNI) is the principle in extreme programming that programmers should not add functionality until it is necessary
 
