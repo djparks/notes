@@ -69,3 +69,6 @@ ANDREW CARNEGIE
 
 “You are what you do, not what you say you will do.”
 CARL JUNG
+
+"Good manners will open doors that the best education cannot."
+CLARENCE THOMAS
