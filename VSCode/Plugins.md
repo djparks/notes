@@ -1,5 +1,18 @@
 # Plugins for VS Code
 
+## AI
+
+[Tabnine -- AI code completion tool.](https://www.tabnine.com/)
+[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+> <https://github.com/features/copilot>
+[Mintlify -- AI documentation writer](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
+> <http://mintlify.com/>
+[Quillbot -- Paraphrasing tool](https://quillbot.com/)
+[Wordtune -- Paraphrasing tool](https://app.wordtune.com/)
+[Otter.ai -- Automatically capture meeting notes](https://otter.ai/)
+
+## Other/Miscellaneous
+
 [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
 [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)

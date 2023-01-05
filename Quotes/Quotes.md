@@ -72,3 +72,18 @@ CARL JUNG
 
 "Good manners will open doors that the best education cannot."
 CLARENCE THOMAS
+
+“Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.”
+BENJAMIN FRANKLIN
+
+“Everything you’ve ever wanted is on the other side of fear.”
+— George Addair
+
+“A wealth of information creates a poverty of attention.”
+— Herbert A. Simon
+
+“Books make for great friends, because the best thinkers of the last few thousand years tell you their nuggets of wisdom… Reading science, math, and philosophy one hour per day will likely put you at the upper echelon of human success within seven years.”
+Naval Ravikant from The Almanack Of Naval Ravikant
+
+“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”
+J.K. ROWLING
