@@ -87,3 +87,12 @@ Naval Ravikant from The Almanack Of Naval Ravikant
 
 “If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”
 J.K. ROWLING
+
+“Nurture your mind with great thoughts; to believe in the heroic makes heroes.”
+BENJAMIN DISRAEL
+
+"My interest is in the future because I am going to spend the rest of my life there."
+CHARLES KETTERING
+
+"Don't complain about growing old - many, many people do not have that privilege."
+EARL WARREN

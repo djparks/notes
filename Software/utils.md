@@ -83,6 +83,13 @@ https://javascript.plainenglish.io/programmers-are-you-using-stackoverflow-or-go
 
 https://medium.com/swlh/i-wrote-a-side-hustle-blog-post-with-chatgpt-and-the-outcome-is-remarkable-71ec2a58f128
 
+[Just](https://just.maciejwalkowiak.com/)
+> <https://www.infoq.com/news/2023/01/just-spring-boot-cli/>
+> <https://just.maciejwalkowiak.com/docs/getting-started/>
+> <https://github.com/maciejwalkowiak/just>
+
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/)
+
 ## AI Tools
 
 [ChatGPT](https://chat.openai.com/chat)
