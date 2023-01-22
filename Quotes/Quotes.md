@@ -96,3 +96,9 @@ CHARLES KETTERING
 
 "Don't complain about growing old - many, many people do not have that privilege."
 EARL WARREN
+
+"A person should set his goals as early as he can and devote all his energy and talent to getting there."
+WALT DISNEY
+
+"Impatience breeds anxiety, fear, discouragement and failure. Patience creates confidence, deciseeness, and a rational outlook, which eventually leads to success.”
+BRIAN ADAMS
