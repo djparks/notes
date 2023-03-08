@@ -1,6 +1,6 @@
 # Notes from The Programmer's Brain
 
-## EXERCISE 2.5 - Reading unfamiliar code.
+## EXERCISE 2.5 - Reading unfamiliar code
 
 Selecting the right kinds of beacons to use in code can take some practice. Use this exercise to deliberately practice using beacons in code.
 
@@ -89,3 +89,56 @@ Use this exercise the next time you learn a new programming concept. Answering t
 * What other ways do you know to write code to achieve the same goal? Try to create as many variants of this code snippet as you can.
 * Do other programming languages also have this concept? Can you write down examples of other languages that support similar operations? How do they differ from the concept at hand?
 * Does this concept fit a certain paradigm, domain, library, or framework?
+
+## Table 4.1 Types of cognitive load (view table figure)
+
+| Load type       | Brief explanations                                            |
+| --------------- | ------------------------------------------------------------- |
+| Intrinsic load  | How complex the problem is in itself                          |
+| Extraneous load | What outside distractions add to the problem                  |
+| Germane load    | Cognitive load created by having to store your thought to LTM |
+
+## EXERCISE 4.1
+
+The next time you read unfamiliar code, try to monitor your own cognitive load. When the code is hard to process and you feel the need to make notes or follow the execution step by step, it is likely you are experiencing a high cognitive load.
+
+When you experience high cognitive load, it is worthwhile to examine which parts of the code are creating the different types of cognitive load. You can use the following table to analyze this.
+
+| Lines of Code | Instrinsic cognitive load | Extraneous cognitive load |
+| ------------- | ------------------------- | ------------------------- |
+|               |                           |                           |
+|               |                           |                           |
+
+## 4.2 Techniques to reduce cognitive load
+
+### 4.2.1 Refactoring
+
+### 4.2.2 Replacing unfamiliar language constructs
+
+### 4.2.3 Code synonyms are great additions to a flashcard deck
+
+## 4.3 Memory aids to use when your working memory is overloaded
+
+### 4.3.1 Creating a dependency graph
+
+### 4.3.2 Using a state table
+
+|       | N   | N2  | B$  | N1  |
+| ----- | --- | --- | --- | --- |
+| Init  | 7   | 7   | -   | 7   |
+| Loop1 |     | 3   | 1   | 3   |
+| Loop2 |     |     |     |     |
+
+Follow these steps to create a state table:
+
+1. Make a list of all the variables. If you have already created a dependency graph for this program, as described in the previous section, it will be easy to list the variables because you’ll have circled all of them in the same color.
+2. Create a table and give each variable its own column. In the state table, each variable will get one column in which its intermediate values can be recorded, as shown in figure 4.7.
+3. Add one row to the table for each distinct part of the execution of the code. Code that contains complex calculations will most likely also contain some complex dependencies, such as a loop depending on a calculation, or a complicated if statement. Rows in the state table represent separate parts of the dependencies. For example, as shown in figure 4.7, a row can represent one iteration in a loop, preceded by the initialization code. Alternatively, a row could represent a branch in a large if statement, or simply a group of coherent lines of code. In extremely complex and terse code, one row in the table might even represent one line of code.
+4. Execute each part of the code and then write down the value each variable has in the correct row and column.
+
+![alt text](VariableRoles.png "Variable Roles")
+
+## text structure knowledge and plan knowledge
+
+* text structure knowledge: relates to surface-level understanding of parts of the program
+* plan knowledge:  represents understanding what a programmer planned when they created the program or what they were aiming to achieve.

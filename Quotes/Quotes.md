@@ -95,10 +95,43 @@ BENJAMIN DISRAEL
 CHARLES KETTERING
 
 "Don't complain about growing old - many, many people do not have that privilege."
-EARL WARREN
+— EARL WARREN
 
 "A person should set his goals as early as he can and devote all his energy and talent to getting there."
-WALT DISNEY
+— WALT DISNEY
 
 "Impatience breeds anxiety, fear, discouragement and failure. Patience creates confidence, deciseeness, and a rational outlook, which eventually leads to success.”
-BRIAN ADAMS
+— BRIAN ADAMS
+
+"I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves."
+LUDWIG WITTGENSTEIN
+
+"There are only two tragedies in life: one is not getting what one wants, and the other is getting it."
+OSCAR WILDE
+
+“It’s amazing what ordinary people can do if they set out without preconceived notions.”
+CHARLES F. KETTERING
+
+“Don’t ever get too comfortable, you can be replaced.”
+— Anonymous
+
+“It is not the strongest of the species that survives, nor the most intelligent — it is the one most adaptable to change.”
+— Charles Darwin
+
+"Empires can’t be ruled without belief. Without confidence in official words, subjects will lack direction"
+— Matt Taibbi
+
+"Work saves us from three great evils: boredom, vice and need."
+VOLTAIRE
+
+"Never trouble another for what you can do for yourself."
+THOMAS A. EDISON
+
+“Life is like a piano. What you get out of it depends on how you play it.”
+TOM LEHRER
+
+“You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement...”
+MARIE CURIE
+
+"Beautiful souls are shaped by ugly experiences."
+MATSHONA DHLIWAYO
