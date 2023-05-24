@@ -135,3 +135,60 @@ MARIE CURIE
 
 "Beautiful souls are shaped by ugly experiences."
 MATSHONA DHLIWAYO
+
+"It is a terrible thing to see and have no vision."
+Helen Keller
+
+“Success is going from failure to failure without losing enthusiasm.”
+— Winston Churchill
+
+"Far and away the best prize that life offers is the chance to work hard at work worth doing."
+THEODORE ROOSEVELT
+
+“Anyone telling you they have easy answers is either religious or selling you something — usually both.”
+— Rollo Tomass
+
+"I have never let my schooling interfere with my education."
+MARK TWAIN
+
+"Be courteous to all, but intimate with few; and let those few be well tried before you give them your confidence."
+GEORGE WASHINGTON
+
+'Success is a journey, not a destination. The doing is often more important than the outcome.'
+ARTHUR ASHE
+
+''Train yourself to let go of the things you fear to lose.''
+GEORGE LUCAS
+
+“Do not let your happiness depend on something you may lose."
+C.S. LEWIS
+
+“Dost thou love life? Then do not squander time, for that's the stuff life is made of.”
+BENJAMIN FRANKLIN
+
+“Oh, love isn't there to make us happy. I believe it exists to show us how much we can endure.”
+HERMANN HESSE
+
+"And this I believe: that the free, exploring mind of the individual human is the most valuable thing in the world."
+JOHN STEINBECK
+
+"Circumstances don't make the man, they only reveal him to himself."
+EPICTETUS
+
+"Discipline is doing what you hate to do, but do it like you love it"
+Mike Tyson
+
+“Pain unlocks a secret doorway in the mind, one that leads to both peak performance, and beautiful silence”
+-- David Goggins
+
+"No one really founds himself without going through trials, tribulations, suffering and accountability"
+--David Goggins
+
+“I don’t stop when I’m tired. I stop when I’m done”
+— David Goggins
+
+“we’re living in the most advanced times with some of the dumbest people.”
+arako 2023
+
+“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.”
+RALPH WALDO EMERSON

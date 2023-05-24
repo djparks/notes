@@ -8,6 +8,7 @@
 
 - [ ] Research: Try(preparedstatement) vs inner try/catch
 
+
 ## Daily
 
 - [ ] Read ["The Programmers Brain"](https://livebook.manning.com/book/the-programmers-brain/chapter-5/78)
