@@ -18,6 +18,8 @@ Phoenix is a lightweight macOS window and app manager scriptable with JavaScript
 
 CotEditor for no charge from the [Mac App Store.](https://apps.apple.com/app/coteditor/id1024640650?ls=1)
 
+Tunnel Bear <https://www.tunnelbear.com/> Free VPN
+
 ## Miscellaneous Tools
 
 [Encrypto](https://macpaw.com/encrypto)
@@ -121,3 +123,4 @@ https://medium.com/swlh/i-wrote-a-side-hustle-blog-post-with-chatgpt-and-the-out
 [Excel Formula Bot](https://excelformulabot.com/)
 [Big Speak - Turn text into speech](https://bigspeak.ai/)
 [PasteBin](https://pastebin.com/)
+[ImageMagick](https://imagemagick.org/)

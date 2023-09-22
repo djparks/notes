@@ -192,3 +192,62 @@ arako 2023
 
 “Happiness is a perfume you cannot pour on others without getting a few drops on yourself.”
 RALPH WALDO EMERSON
+
+"He enjoys true leisure who has time to improve his soul's estate."
+HENRY DAVID THOREAU
+
+"One man can make a difference and every man should try."
+JACQUELINE KENNEDY ONASSIS
+
+“We make a living by what we get. We make a life by what we give."
+Winston S. Churchill
+
+"There is no dignity quite so impressive, and no one independence quite so important, as living within your means."
+CALVIN COOLIDGE
+
+"Who you are speaks so loudly I can't hear what you're saying."
+RALPH WALDO EMERSON
+
+“A coward dies a thousand times before his death, but the valiant taste of death but once. It seems to me most strange that men should fear, seeing that death, a necessary end, will come when it will come.”
+― William Shakespeare, Julius Caesar
+
+"It is dangerous to be right in matters where established men are wrong."
+~ Voltaire
+
+"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+Plato
+
+" To becomewho you sacrifice who you are"
+-Miyamoto Musashi
+
+The opposite of bravery is not cowardice but conformity.
+— Dr. Robert Anthony
+
+"Patience and fortitude conquer all things."
+RALPH WALDO EMERSON
+
+“The only person you are destined to become is the person you decide to be.”
+-- Ralph Waldo Emerson
+
+"Seek Peace, but be ready for war"
+-- r.h.Sin
+
+"A great man is hard on himself; a small man is hard on others"
+Confucious
+
+"There is no greater tyranny than that which is perpetrated under the shield of the law and in the name of justice."
+-- Montesquieu
+
+"He who has overcome his fears will truly be free."
+Aristotle
+
+"A sword never kills anybody; it is a tool in the killer's hand."
+(Lucius Annaeus Seneca,c. 4BC - 65AD)
+"Whatever is worth doing at all is worth doing well."
+PHILIP STANHOPE
+
+“It is by suffering that human beings become angels.”
+VICTOR HUGO
+
+"It all comes to this: The simplest way to be happy is to do good."
+HELEN KELLER

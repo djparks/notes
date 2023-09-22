@@ -8,6 +8,16 @@
 
 - [ ] Research: Try(preparedstatement) vs inner try/catch
 
+DELETE Subject: noticewhatbidendidbeforefallingatairforcecommencement?
+From: conservativetribune<newsletters@e.conservativetribune.com>
+javax.mail.internet.AddressException: Empty address in string ``''
+        at javax.mail.internet.InternetAddress.checkAddress(InternetAddress.java:1275)
+        at javax.mail.internet.InternetAddress.parse(InternetAddress.java:1215)
+        at javax.mail.internet.InternetAddress.parseHeader(InternetAddress.java:777)
+        at javax.mail.internet.MimeMessage.getAddressHeader(MimeMessage.java:756)
+        at javax.mail.internet.MimeMessage.getFrom(MimeMessage.java:384)
+        at net.parksy.DeleteEmail.delete(DeleteEmail.java:91)
+        at net.parksy.DeleteEmail.main(DeleteEmail.java:141)
 
 ## Daily
 
